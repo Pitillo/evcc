@@ -52,6 +52,13 @@ params:
     de: Port
     en: Port
   valuetype: number
+- name: topic
+  description:
+    de: Topic
+    en: topic
+  help:
+    de: Topic (ohne / am Anfang)
+    en: topic (omit leading /)
 - name: user
   description:
     de: Benutzername
