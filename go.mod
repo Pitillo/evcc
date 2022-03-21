@@ -69,11 +69,11 @@ require (
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.10.2-0.20220212101550-5986bd9c0c19
 	github.com/stretchr/testify v1.7.1-0.20210427113832-6241f9ab9942
-	github.com/thoas/go-funk v0.9.1
 	github.com/tv42/httpunix v0.0.0-20191220191345-2ba4b9c3382c
 	github.com/volkszaehler/mbmd v0.0.0-20220208145932-d2d3cba909f5
 	github.com/writeas/go-strip-markdown v2.0.1+incompatible
 	gitlab.com/bboehmke/sunny v0.15.1-0.20211022160056-2fba1c86ade6
+	golang.org/x/exp v0.0.0-20220318154914-8dddf5d87bd8
 	golang.org/x/net v0.0.0-20220225172249-27dd8689420f
 	golang.org/x/oauth2 v0.0.0-20220309155454-6242fa91716a
 	golang.org/x/text v0.3.7
@@ -146,11 +146,12 @@ require (
 	github.com/spf13/cast v1.4.1 // indirect
 	github.com/subosito/gotenv v1.2.0 // indirect
 	github.com/teivah/onecontext v1.3.0 // indirect
+	github.com/thoas/go-funk v0.9.1 // indirect
 	github.com/vmihailenco/msgpack/v5 v5.3.5 // indirect
 	github.com/vmihailenco/tagparser/v2 v2.0.0 // indirect
 	go.opencensus.io v0.23.0 // indirect
 	golang.org/x/crypto v0.0.0-20220214200702-86341886e292 // indirect
-	golang.org/x/mod v0.5.1 // indirect
+	golang.org/x/mod v0.6.0-dev.0.20211013180041-c96bc1413d57 // indirect
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
 	golang.org/x/sys v0.0.0-20220310020820-b874c991c1a5 // indirect
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211 // indirect
